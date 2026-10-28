@@ -2,7 +2,7 @@
 
 ### ☁️ Cloud Engineer | AWS | DevOps | Networking
 
-I'm currently working as a **Cloud Engineer at Kaizen IT Services Pvt. Ltd.** I'm passionate about cloud computing, infrastructure automation, networking, cybersecurity, and software development.
+I'm currently working as a **Network engg at Kaizen IT Services Pvt. Ltd.** I'm passionate about cloud computing, infrastructure automation, networking, cybersecurity, and software development.
 
 - 🔭 Working on cloud infrastructure, networking, system administration, and troubleshooting.
 - ☁️ Exploring AWS cloud architecture and infrastructure services.
